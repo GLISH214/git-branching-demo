@@ -4,5 +4,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, Git Branching!" << endl;
+    cout << "This is for practice!" << endl;
     return 0;
 }

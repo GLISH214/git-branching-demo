@@ -6,4 +6,4 @@
 "- Pushing to GitHub" 
 "- Opening a Pull Request" 
 "This is a simple demonstration of how version control works with Git." 
-"Thank you for following along!" 
+ 
